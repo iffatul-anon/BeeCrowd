@@ -1,2 +1,2 @@
-# BeeCrowd-GreenDivision
-Solution of beecrowd problems
+# BeeCrowd
+Solution of beecrowd problems = 70+
