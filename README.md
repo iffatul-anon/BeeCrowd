@@ -1,2 +1,2 @@
 # BeeCrowd
-Solution of beecrowd problems = 70+
+Problems ~ 70+
